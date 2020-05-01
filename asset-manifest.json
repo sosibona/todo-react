@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sosibona/todo-react.git/static/css/main.f63d940a.chunk.css",
+    "main.js": "/sosibona/todo-react.git/static/js/main.fde7b2c7.chunk.js",
+    "main.js.map": "/sosibona/todo-react.git/static/js/main.fde7b2c7.chunk.js.map",
+    "runtime-main.js": "/sosibona/todo-react.git/static/js/runtime-main.9aa29354.js",
+    "runtime-main.js.map": "/sosibona/todo-react.git/static/js/runtime-main.9aa29354.js.map",
+    "static/js/2.e8adc7a4.chunk.js": "/sosibona/todo-react.git/static/js/2.e8adc7a4.chunk.js",
+    "static/js/2.e8adc7a4.chunk.js.map": "/sosibona/todo-react.git/static/js/2.e8adc7a4.chunk.js.map",
+    "index.html": "/sosibona/todo-react.git/index.html",
+    "precache-manifest.ead24852b20789bfd33a4ac3cb3d187e.js": "/sosibona/todo-react.git/precache-manifest.ead24852b20789bfd33a4ac3cb3d187e.js",
+    "service-worker.js": "/sosibona/todo-react.git/service-worker.js",
+    "static/css/main.f63d940a.chunk.css.map": "/sosibona/todo-react.git/static/css/main.f63d940a.chunk.css.map",
+    "static/js/2.e8adc7a4.chunk.js.LICENSE.txt": "/sosibona/todo-react.git/static/js/2.e8adc7a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9aa29354.js",
+    "static/js/2.e8adc7a4.chunk.js",
+    "static/css/main.f63d940a.chunk.css",
+    "static/js/main.fde7b2c7.chunk.js"
+  ]
+}
