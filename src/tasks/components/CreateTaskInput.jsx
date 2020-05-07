@@ -1,11 +1,10 @@
 import React, { Component } from "react";
+import PropTypes from "prop-types";
 
 class CreateTaskInput extends Component {
-    state = {
-      value: "",
-    };
-    // this.handleChange = this.handleChange.bind(this);
-    // this.handleTaskCreate = this.handleTaskCreate.bind(this)
+  state = {
+    value: "",
+  };
 
   handleChange = (event) => {
     this.setState({
@@ -16,8 +15,8 @@ class CreateTaskInput extends Component {
   handleTaskCreate = () => {
     this.props.onCreate(this.state.value);
     this.setState({
-      value: '',
-    })
+      value: "",
+    });
   };
 
   render() {
@@ -39,5 +38,9 @@ class CreateTaskInput extends Component {
     );
   }
 }
+
+CreateTaskInput.propTypes = {
+  onCreate: PropTypes.func.isRequired,
+};
 
 export default CreateTaskInput;
